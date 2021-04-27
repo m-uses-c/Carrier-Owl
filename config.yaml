@@ -1,11 +1,11 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:astro-ph.CO OR cat:astro-ph.EP OR cat:astro-ph.GA OR cat:nlin.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        molecular: 3
+        instability: 1
+        detected: 2
 
 # 通知の閾値
 score_threshold: 0
