@@ -6,6 +6,8 @@ keywords:
         molecular: 3
         instability: 1
         detected: 2
-
+        dynamics: 2
+        turbulent: 1
+        observation: 2
 # 通知の閾値
 score_threshold: 0
