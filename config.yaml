@@ -3,11 +3,15 @@ subject: 'cat:astro-ph.CO OR cat:astro-ph.EP OR cat:astro-ph.GA OR cat:nlin.*'
 
 # 検索キーワード
 keywords:
-        molecular: 3
+        molecular: 1
         instability: 1
-        detected: 2
-        dynamics: 2
+        detected: 1
+        dynamics: 1
         turbulent: 1
-        observation: 2
+        observations: 1
+        formation: 1
+        simulations: 1
+        chemistry: 1
+        spectra: 1
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
