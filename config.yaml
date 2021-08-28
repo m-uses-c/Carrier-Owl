@@ -5,13 +5,10 @@ subject: 'cat:astro-ph.CO OR cat:astro-ph.EP OR cat:astro-ph.GA OR cat:nlin.*'
 keywords:
         molecular: 1
         instability: 1
-        detected: 1
-        dynamics: 1
-        turbulent: 1
-        observations: 1
-        formation: 1
-        simulations: 1
-        chemistry: 1
-        spectra: 1
+        protostar: 2
+        protoplanetary: 2
+        MHD: 1
+        accretion: 1
+        perturbation: 1
 # 通知の閾値
-score_threshold: 2
+score_threshold: 3
