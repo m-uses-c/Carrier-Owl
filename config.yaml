@@ -7,8 +7,11 @@ keywords:
         instability: 1
         protostar: 2
         protoplanetary: 2
+        star-forming: 1
         MHD: 1
         accretion: 1
         perturbation: 1
+        CO :1
+        perturbation: 1
 # 通知の閾値
-score_threshold: 3
+score_threshold: 2
