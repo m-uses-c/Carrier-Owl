@@ -11,7 +11,7 @@ keywords:
         MHD: 1
         accretion: 1
         perturbation: 1
-        CO :1
+        CO: 1
         perturbation: 1
 # 通知の閾値
 score_threshold: 2
