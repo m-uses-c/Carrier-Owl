@@ -15,5 +15,6 @@ keywords:
         perturbation: 1
         ALMA: 1
         HSC: 1
+        
 # 通知の閾値
 score_threshold: 3
