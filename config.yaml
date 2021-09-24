@@ -10,8 +10,10 @@ keywords:
         star-forming: 1
         MHD: 1
         accretion: 1
-        perturbation: 1
+        outflow: 2
         CO: 1
         perturbation: 1
+        ALMA: 1
+        HSC: 1
 # 通知の閾値
-score_threshold: 2
+score_threshold: 3
