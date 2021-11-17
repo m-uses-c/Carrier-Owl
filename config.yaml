@@ -12,9 +12,9 @@ keywords:
         accretion: 1
         outflow: 2
         CO: 1
-        perturbation: 1
         ALMA: 1
-        HSC: 1
+        Ophiuchus: 3
+        simulation: 2
         
 # 通知の閾値
 score_threshold: 3
