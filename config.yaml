@@ -7,14 +7,13 @@ keywords:
         instability: 1
         protostar: 2
         protoplanetary: 2
-        star-forming: 1
         MHD: 1
         accretion: 1
         outflow: 2
-        CO: 1
         ALMA: 1
         Ophiuchus: 3
         simulation: 2
-        
+        disc wind: 1
+        dust: 1
 # 通知の閾値
 score_threshold: 3
